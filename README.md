@@ -18,3 +18,4 @@ This is a simple text editor application built using Python and the Tkinter libr
 3. Open a terminal/command prompt and navigate to the project directory.
 4. Run the following command:
 
+
