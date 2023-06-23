@@ -18,4 +18,5 @@ This is a simple text editor application built using Python and the Tkinter libr
 3. Open a terminal/command prompt and navigate to the project directory.
 4. Run the following command:
 
+https://github.com/deepaktallapudi/TextEditor/assets/103422044/4ea2e7d7-428a-4685-91db-33d7db914c48
 
